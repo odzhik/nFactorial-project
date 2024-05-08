@@ -1,0 +1,949 @@
+.spotify-homepage .vector-12 {
+  width: 8.8px;
+  height: 15.5px;
+}
+.spotify-homepage .arrow-left {
+  display: flex;
+  width: 8.8px;
+  height: 15.5px;
+  box-sizing: border-box;
+}
+.spotify-homepage .vector-13 {
+  width: 8.8px;
+  height: 15.5px;
+}
+.spotify-homepage .group-1 {
+  display: flex;
+  width: 8.8px;
+  height: 15.5px;
+  box-sizing: border-box;
+}
+.spotify-homepage .frame-11 {
+  margin: 14.3px 0 14.2px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 59.1px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.spotify-homepage .premium {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 1.556;
+  color: #D9D9D9;
+}
+.spotify-homepage .nav-link {
+  margin-right: 20.4px;
+  display: flex;
+  box-sizing: border-box;
+}
+.spotify-homepage .premium-1 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 1.556;
+  color: #D9D9D9;
+}
+.spotify-homepage .nav-link-1 {
+  margin-right: 20.5px;
+  display: flex;
+  box-sizing: border-box;
+}
+.spotify-homepage .premium-2 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 1.556;
+  color: #D9D9D9;
+}
+.spotify-homepage .nav-link-2 {
+  margin-right: 12px;
+  display: flex;
+  box-sizing: border-box;
+}
+.spotify-homepage .divider {
+  background: #D7D7D7;
+  margin: 2px 11px 2px 0;
+  width: 1px;
+  height: 24px;
+}
+.spotify-homepage .premium-3 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 1.556;
+  color: #D9D9D9;
+}
+.spotify-homepage .nav-link-3 {
+  display: flex;
+  box-sizing: border-box;
+}
+.spotify-homepage .frame-9 {
+  margin: 8px 24.5px 8px 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.spotify-homepage .log-in {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 1.556;
+  color: #000000;
+}
+.spotify-homepage .button {
+  border-radius: 500px;
+  background: #FFFFFF;
+  display: flex;
+  padding: 8px 0.9px 8px 0;
+  width: 117px;
+  box-sizing: border-box;
+}
+.spotify-homepage .frame-10 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.spotify-homepage .top-nav-bar {
+  background: #101010;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 16px 0;
+  width: 1339px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.spotify-homepage .top-nav-bar-1 {
+  margin-bottom: 33px;
+  display: flex;
+  width: 1339px;
+  box-sizing: border-box;
+}
+.spotify-homepage .focus {
+  margin-right: 16px;
+  width: 1075.2px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 1.333;
+  color: #FFFFFF;
+}
+.spotify-homepage .show-all {
+  margin: 3px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.625;
+  color: #868682;
+}
+.spotify-homepage .section-header {
+  margin: 0 0 32px 1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1155px;
+  box-sizing: border-box;
+}
+.spotify-homepage .vector-7 {
+  width: 14.9px;
+  height: 17px;
+}
+.spotify-homepage .play-icon {
+  border-radius: 500px;
+  background: #1FDF64;
+  position: absolute;
+  left: 50%;
+  bottom: -52px;
+  translate: -50% 0;
+  display: flex;
+  padding: 16.5px 16.1px 16.5px 19px;
+  width: 50px;
+  height: 50px;
+  box-sizing: border-box;
+}
+.spotify-homepage .icon-container {
+  position: absolute;
+  right: 12px;
+  bottom: 9px;
+  width: 50px;
+  height: 50px;
+}
+.spotify-homepage .container-5 {
+  box-shadow: 0px 16px 32px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 8px;
+  background: url('../assets/images/photo_2.png') 50% / cover no-repeat;
+  position: relative;
+  margin-bottom: 32px;
+  width: 180px;
+  height: 180px;
+}
+.spotify-homepage .the-eminem-show {
+  margin-bottom: 4px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 1.556;
+  color: #FFFFFF;
+}
+.spotify-homepage .container {
+  margin-right: 14px;
+  width: 88px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 1.556;
+  color: #B3B3AD;
+}
+.spotify-homepage .album {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 1.556;
+  color: #B3B3AD;
+}
+.spotify-homepage .container-10 {
+  margin-right: 0px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 156.9px;
+  box-sizing: border-box;
+}
+.spotify-homepage .frame-19 {
+  margin-right: 0px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.spotify-homepage .song-card {
+  border-radius: 16px;
+  background: #181818;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 16px;
+  width: 212px;
+  box-sizing: border-box;
+}
+.spotify-homepage .vector-8 {
+  width: 14.9px;
+  height: 17px;
+}
+.spotify-homepage .play-icon-1 {
+  border-radius: 500px;
+  background: #1FDF64;
+  position: absolute;
+  left: 50%;
+  bottom: -52px;
+  translate: -50% 0;
+  display: flex;
+  padding: 16.5px 16.1px 16.5px 19px;
+  width: 50px;
+  height: 50px;
+  box-sizing: border-box;
+}
+.spotify-homepage .icon-container-1 {
+  position: absolute;
+  right: 12px;
+  bottom: 9px;
+  width: 50px;
+  height: 50px;
+}
+.spotify-homepage .container-1 {
+  box-shadow: 0px 16px 32px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 8px;
+  background: url('../assets/images/photo_1.jpeg') 50% / cover no-repeat;
+  position: relative;
+  margin-bottom: 32px;
+  width: 180px;
+  height: 180px;
+}
+.spotify-homepage .the-eminem-show-1 {
+  margin-bottom: 4px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 1.556;
+  color: #FFFFFF;
+}
+.spotify-homepage .container-1 {
+  margin-right: 14px;
+  width: 88px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 1.556;
+  color: #B3B3AD;
+}
+.spotify-homepage .album-1 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 1.556;
+  color: #B3B3AD;
+}
+.spotify-homepage .container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 156.9px;
+  box-sizing: border-box;
+}
+.spotify-homepage .frame-191 {
+  margin-right: 0.1px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.spotify-homepage .song-card-1 {
+  border-radius: 16px;
+  background: #181818;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 16px;
+  width: 212px;
+  box-sizing: border-box;
+}
+.spotify-homepage .vector-9 {
+  width: 14.9px;
+  height: 17px;
+}
+.spotify-homepage .play-icon-2 {
+  border-radius: 500px;
+  background: #1FDF64;
+  position: absolute;
+  left: 50%;
+  bottom: -52px;
+  translate: -50% 0;
+  display: flex;
+  padding: 16.5px 16.1px 16.5px 19px;
+  width: 50px;
+  height: 50px;
+  box-sizing: border-box;
+}
+.spotify-homepage .icon-container-2 {
+  position: absolute;
+  right: 12px;
+  bottom: 9px;
+  width: 50px;
+  height: 50px;
+}
+.spotify-homepage .container-6 {
+  box-shadow: 0px 16px 32px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 8px;
+  background: url('../assets/images/photo.jpeg') 50% / cover no-repeat;
+  position: relative;
+  margin-bottom: 32px;
+  width: 180px;
+  height: 180px;
+}
+.spotify-homepage .the-eminem-show-2 {
+  margin-bottom: 4px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 1.556;
+  color: #FFFFFF;
+}
+.spotify-homepage .container-2 {
+  margin-right: 14px;
+  width: 85px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 1.556;
+  color: #B3B3AD;
+}
+.spotify-homepage .album-2 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 1.556;
+  color: #B3B3AD;
+}
+.spotify-homepage .container-2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 153.9px;
+  box-sizing: border-box;
+}
+.spotify-homepage .frame-192 {
+  margin-right: 3.1px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.spotify-homepage .song-card-2 {
+  border-radius: 16px;
+  background: #181818;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 16px;
+  width: 212px;
+  box-sizing: border-box;
+}
+.spotify-homepage .vector-10 {
+  width: 14.9px;
+  height: 17px;
+}
+.spotify-homepage .play-icon-3 {
+  border-radius: 500px;
+  background: #1FDF64;
+  position: absolute;
+  left: 50%;
+  bottom: -52px;
+  translate: -50% 0;
+  display: flex;
+  padding: 16.5px 16.1px 16.5px 19px;
+  width: 50px;
+  height: 50px;
+  box-sizing: border-box;
+}
+.spotify-homepage .icon-container-3 {
+  position: absolute;
+  right: 12px;
+  bottom: 9px;
+  width: 50px;
+  height: 50px;
+}
+.spotify-homepage .container-7 {
+  box-shadow: 0px 16px 32px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 8px;
+  background: url('../assets/images/photo_3.png') 50% / cover no-repeat;
+  position: relative;
+  margin-bottom: 32px;
+  width: 180px;
+  height: 180px;
+}
+.spotify-homepage .the-eminem-show-3 {
+  margin-bottom: 4px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 1.556;
+  color: #FFFFFF;
+}
+.spotify-homepage .container-3 {
+  margin-right: 14px;
+  width: 84px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 1.556;
+  color: #B3B3AD;
+}
+.spotify-homepage .album-3 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 1.556;
+  color: #B3B3AD;
+}
+.spotify-homepage .container-9 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 152.9px;
+  box-sizing: border-box;
+}
+.spotify-homepage .frame-193 {
+  margin-right: 4.1px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.spotify-homepage .song-card-3 {
+  border-radius: 16px;
+  background: #181818;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 16px;
+  width: 212px;
+  box-sizing: border-box;
+}
+.spotify-homepage .vector-11 {
+  width: 14.9px;
+  height: 17px;
+}
+.spotify-homepage .play-icon-4 {
+  border-radius: 500px;
+  background: #1FDF64;
+  position: absolute;
+  left: 50%;
+  bottom: -52px;
+  translate: -50% 0;
+  display: flex;
+  padding: 16.5px 16.1px 16.5px 19px;
+  width: 50px;
+  height: 50px;
+  box-sizing: border-box;
+}
+.spotify-homepage .icon-container-4 {
+  position: absolute;
+  right: 12px;
+  bottom: 9px;
+  width: 50px;
+  height: 50px;
+}
+.spotify-homepage .container-8 {
+  box-shadow: 0px 16px 32px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 8px;
+  background: url('../assets/images/photo_4.png') 50% / cover no-repeat;
+  position: relative;
+  margin-bottom: 32px;
+  width: 180px;
+  height: 180px;
+}
+.spotify-homepage .the-eminem-show-4 {
+  margin-bottom: 4px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 1.556;
+  color: #FFFFFF;
+}
+.spotify-homepage .container-4 {
+  margin-right: 14px;
+  width: 84px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 1.556;
+  color: #B3B3AD;
+}
+.spotify-homepage .album-4 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 1.556;
+  color: #B3B3AD;
+}
+.spotify-homepage .container-4 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 152.9px;
+  box-sizing: border-box;
+}
+.spotify-homepage .frame-194 {
+  margin-right: 4.1px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.spotify-homepage .song-card-4 {
+  border-radius: 16px;
+  background: #181818;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 16px;
+  width: 212px;
+  box-sizing: border-box;
+}
+.spotify-homepage .song-card-collection {
+  display: flex;
+  flex-direction: row;
+  column-gap: 24px;
+  width: 1156px;
+  box-sizing: border-box;
+}
+.spotify-homepage .song-row-collection {
+  margin: 0 29.5px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-self: flex-start;
+  width: 1156px;
+  box-sizing: border-box;
+}
+.spotify-homepage .container-3 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 1339px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.spotify-homepage .vector-14 {
+  width: 128.2px;
+  height: 38.4px;
+}
+.spotify-homepage .spotify-logo {
+  margin: 0 6.9px 40.1px 0.9px;
+  display: flex;
+  width: 128.2px;
+  height: 38.4px;
+  box-sizing: border-box;
+}
+.spotify-homepage .vector-6 {
+  width: 20px;
+  height: 20.9px;
+}
+.spotify-homepage .home-5 {
+  margin: 3.1px 18px 4px 0;
+  display: flex;
+  width: 20px;
+  height: 20.9px;
+  box-sizing: border-box;
+}
+.spotify-homepage .home-6 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 2;
+  color: #B3B3AD;
+}
+.spotify-homepage .sidebar-menu-link-5 {
+  margin: 0 0.9px 32px 0.9px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.spotify-homepage .vector {
+  width: 21.4px;
+  height: 21.2px;
+}
+.spotify-homepage .search {
+  margin: 3.3px 17.5px 3.6px 0;
+  display: flex;
+  width: 21.4px;
+  height: 21.2px;
+  box-sizing: border-box;
+}
+.spotify-homepage .home {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 2;
+  color: #B3B3AD;
+}
+.spotify-homepage .sidebar-menu-link {
+  margin-bottom: 32px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.spotify-homepage .vector-1 {
+  width: 20px;
+  height: 20px;
+}
+.spotify-homepage .library {
+  margin: 4px 18px 4px 0;
+  display: flex;
+  width: 20px;
+  height: 20px;
+  box-sizing: border-box;
+}
+.spotify-homepage .home-1 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 2;
+  color: #B3B3AD;
+}
+.spotify-homepage .sidebar-menu-link-1 {
+  margin-left: 0.9px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.spotify-homepage .frame-13 {
+  margin: 0 19.3px 48px 1.1px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.spotify-homepage .icon-plus {
+  width: 12px;
+  height: 12px;
+}
+.spotify-homepage .add-playlist {
+  border-radius: 4px;
+  background: #B2B2B2;
+  position: relative;
+  margin: 2px 16px 2px 0;
+  display: flex;
+  padding: 6px;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.spotify-homepage .home-2 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 2;
+  color: #B3B3AD;
+}
+.spotify-homepage .sidebar-menu-link-2 {
+  margin-bottom: 32px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.spotify-homepage .vector-4 {
+  width: 9px;
+  height: 7.7px;
+}
+.spotify-homepage .icon-hearth {
+  display: flex;
+  width: 9px;
+  height: 7.7px;
+  box-sizing: border-box;
+}
+.spotify-homepage .liked-song {
+  border-radius: 4px;
+  background: linear-gradient(135deg, #3B06EB, #796DE0, #CAEDD9);
+  position: relative;
+  margin: 2px 16px 2px 0;
+  display: flex;
+  padding: 8px 7.5px 8.3px 7.5px;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.spotify-homepage .home-3 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 2;
+  color: #B3B3AD;
+}
+.spotify-homepage .sidebar-menu-link-3 {
+  margin-right: 16.1px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.spotify-homepage .frame-14 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.spotify-homepage .sidebar-top-links {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.spotify-homepage .sidebar-top-menu {
+  margin: 0 10.5px 351px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.spotify-homepage .legal-5 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 11px;
+  line-height: 1.636;
+  color: #B3B3AD;
+}
+.spotify-homepage .footer-link-3 {
+  display: flex;
+  box-sizing: border-box;
+}
+.spotify-homepage .legal {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 11px;
+  line-height: 1.636;
+  color: #B3B3AD;
+}
+.spotify-homepage .footer-link {
+  display: flex;
+  box-sizing: border-box;
+}
+.spotify-homepage .frame-15 {
+  margin: 0 11.9px 16px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 134.7px;
+  box-sizing: border-box;
+}
+.spotify-homepage .legal-1 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 11px;
+  line-height: 1.636;
+  color: #B3B3AD;
+}
+.spotify-homepage .footer-link-1 {
+  display: flex;
+  box-sizing: border-box;
+}
+.spotify-homepage .legal-2 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 11px;
+  line-height: 1.636;
+  color: #B3B3AD;
+}
+.spotify-homepage .footer-link-2 {
+  display: flex;
+  box-sizing: border-box;
+}
+.spotify-homepage .frame-16 {
+  margin-bottom: 16px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 146.6px;
+  box-sizing: border-box;
+}
+.spotify-homepage .legal-3 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 11px;
+  line-height: 1.636;
+  color: #B3B3AD;
+}
+.spotify-homepage .frame-17 {
+  margin-bottom: 16px;
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.spotify-homepage .legal-4 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 11px;
+  line-height: 1.636;
+  color: #B3B3AD;
+}
+.spotify-homepage .frame-18 {
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.spotify-homepage .sidebar-footer-links {
+  margin-bottom: 36px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.spotify-homepage .vector-5 {
+  width: 24px;
+  height: 24px;
+}
+.spotify-homepage .globe {
+  margin: 2px 7.9px 2px 0;
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.spotify-homepage .home-4 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 2;
+  color: #B3B3AD;
+}
+.spotify-homepage .sidebar-menu-link-4 {
+  border-radius: 500px;
+  border: 1px solid #D9D9D9;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  padding: 7px 15.7px 7px 15.1px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.spotify-homepage .footer-links {
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.spotify-homepage .sidebar {
+  background: #000000;
+  position: absolute;
+  left: 0px;
+  top: -2px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 38.5px 0 38px 0;
+  width: 236px;
+  box-sizing: border-box;
+}
+.spotify-homepage {
+  background: #1E1E1E;
+  display: flex;
+  width: 1440px;
+  box-sizing: border-box;
+}
